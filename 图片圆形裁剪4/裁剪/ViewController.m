@@ -47,7 +47,7 @@
     [path addClip];
     
     /**
-     3、在图像上下文中绘制图片：
+     3、在图形上下文中绘制图片：
      */
     [image drawAtPoint:CGPointZero];
     
